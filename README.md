@@ -1,4 +1,7 @@
 # AL Variable Quickfix
+[![License: MIT](https://img.shields.io/github/license/himanshu2599/AL-Quickfix-?label=License%20&logo=MIT)](https://github.com/himanshu2599/AL-Quickfix-/blob/main/LICENSE)
+[![Typescript: 100%](https://img.shields.io/badge/Typescript-100%25-blue)](https://www.typescriptlang.org/)
+[![Share the feedback](https://badgen.net/ctan/stars/pgf-pie)](https://marketplace.visualstudio.com/items?itemName=HimanshuSharma.vscode-al-variable-quickfixes&ssr=false#review-details)
 
 VS Code extension for variable quickfix in AL. 
 
